@@ -8,7 +8,7 @@ Fortesense Labs is a research institution specializing in Biology and Technology
 
 ## Proposed Sectors:
 
-1. **Artificial Intelligence/Data Engineering:** This sector encompasses a wide range of activities including data compression, analysis, scientific study, collection, and generation. It involves the development of sophisticated algorithms for deep learning, as well as initiatives aimed at creating Artificial General Intelligence (AGI). Notably, our work involves the constant collection and mining of health data through wearables, facilitating advancements in healthcare and wellness.
+1. **General Engineering:** This sector encompasses a wide range of activities including data compression, analysis, scientific study, collection, and generation. It involves the development of sophisticated algorithms for deep learning, as well as initiatives aimed at creating Artificial General Intelligence (AGI). Notably, our work involves the constant collection and mining of health data through wearables, facilitating advancements in healthcare and wellness.
 
 2. **Financial Engineering:** In this sector, our focus is on the development of intelligent agents and assistive AI systems tailored for investments in financial assets. This includes applications in areas such as stock trading, portfolio management, and risk assessment. Additionally, we explore the integration of AI in blockchain technology and distributed financial systems to enhance security and efficiency.
 
